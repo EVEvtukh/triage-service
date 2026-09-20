@@ -1,0 +1,5 @@
+.env
+tickets.db
+__pycache__/
+*.pyc
+log_60.csv
